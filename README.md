@@ -2,6 +2,16 @@
 
 A backend system for managing travel itineraries in Thailand (Phuket and Krabi regions) with FastAPI and SQLAlchemy.
 
+
+## Images of Project
+
+![Image](https://github.com/user-attachments/assets/31047743-83f4-49ea-8c9f-b492cadab216)
+
+![Image](https://github.com/user-attachments/assets/60008adc-9d0f-4bcf-9a27-79bda94d8a57)
+
+![Image](https://github.com/user-attachments/assets/2e25235c-0170-404c-9763-42ba3891d638)
+
+
 ## Features
 
 - Database architecture for trip itineraries using SQLAlchemy
